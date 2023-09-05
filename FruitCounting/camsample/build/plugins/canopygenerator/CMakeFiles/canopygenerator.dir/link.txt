@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libcanopygenerator.a CMakeFiles/canopygenerator.dir/src/CanopyGenerator.o CMakeFiles/canopygenerator.dir/src/grapevine.o CMakeFiles/canopygenerator.dir/src/whitespruce.o CMakeFiles/canopygenerator.dir/src/tomato.o CMakeFiles/canopygenerator.dir/src/strawberry.o CMakeFiles/canopygenerator.dir/src/walnut.o CMakeFiles/canopygenerator.dir/src/sorghum.o CMakeFiles/canopygenerator.dir/src/bean.o
+/usr/bin/ranlib ../../lib/libcanopygenerator.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libvisualizer.a CMakeFiles/visualizer.dir/src/Visualizer.o
+/usr/bin/ranlib ../../lib/libvisualizer.a

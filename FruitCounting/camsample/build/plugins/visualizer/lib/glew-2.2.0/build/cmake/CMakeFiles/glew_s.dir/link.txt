@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../../../lib/libGLEW.a "CMakeFiles/glew_s.dir/home/teaya/Documents/Repos/Helios/plugins/visualizer/lib/glew-2.2.0/src/glew.c.o"
+/usr/bin/ranlib ../../../../../../lib/libGLEW.a

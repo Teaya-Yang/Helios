@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic "CMakeFiles/glewinfo.dir/home/teaya/Documents/Repos/Helios/plugins/visualizer/lib/glew-2.2.0/src/glewinfo.c.o" -o ../../../../../../bin/glewinfo  -Wl,-rpath,/home/teaya/Documents/Repos/Helios/FruitCounting/camsample/build/lib: ../../../../../../lib/libGLEW.so.2.2.0 -lSM -lICE -lX11 -lXext -lGL -lGLU -lSM -lICE -lX11 -lXext 
